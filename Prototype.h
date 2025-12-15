@@ -9,11 +9,6 @@ const int AQUABLUE = 0x00ffff;
 const int RED = 0xff0000;
 const int YELLOW = 0xffff00;
 const int WHITE = 0xffffff;
-//const int IMGBG = LoadGraph("image/bg.png");
-//const int BGM = LoadSoundMem("sound/bgm.mp3");
-//const int JIN = LoadSoundMem("sound/gameover.mp3");
-//const int SE = LoadSoundMem("sound/hit.mp3");
-
 
 struct BALL
 {
